@@ -1,6 +1,6 @@
 ---
 layout: post
-permalink: /heosaeng-jeon/
+permalink: /landmark-korea/
 title: 'Landmark in Seoul'
 date: 2021-05-29 23:50:00 +09:00
 feature: '/img/posts/02/namsan.jpg'
