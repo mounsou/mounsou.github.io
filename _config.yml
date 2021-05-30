@@ -1,5 +1,5 @@
-title:              "이게 한국이다! 이게 인도네시아다!"
-tagline:            "찐한국생활 + 인니에서의 썰"
+title:              "Mario land"
+tagline:            "인니의 삶 알리기 + Perkenalakan Korea"
 email:              "moun1004@gmail.com"
 description:        "외국인에게 한국생활을 그리고 저의 인니경험들을 이야기하고 공유합니다."
 author:             "Mario"
@@ -7,6 +7,8 @@ baseurl:            "/"
 url:                "https://mounsou.github.io"
 locale:             "ko_KR"
 thumbnail:          "/img/thumbnail.jpg"
+disqus: "mounsou-dev"
+
 
 # Social Profiles
 twitter_username:   twitter_username
