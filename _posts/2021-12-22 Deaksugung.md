@@ -1,5 +1,5 @@
 ---
-layout: category/1
+layout: post
 permalink: /Deoksu-gung/
 title: 'Deoksu-gung in Autumn'
 date: 2022-12-22 19:30:00 +09:00
@@ -13,7 +13,8 @@ tags:
   - 광화문 연가
   - Deoksu-gung
 
-description: 'I would like to introduce N-Seoul Tower which I ragard it as a landmark in Seoul. (saya ingin memperkenalkan N-Seoul Tower yang saya anggap Landmark di Seoul / 我想介绍N-SeoulTower我认为在首尔的landmark。)  .'
+  description: 'I would like to introduce N-Seoul Tower which I ragard it as a landmark in Seoul. (saya ingin memperkenalkan N-Seoul Tower yang saya anggap Landmark di Seoul / 我想介绍N-SeoulTower我认为在首尔的landmark。)
+
 ---
 
 # 1. What is Deoksu-gung?
