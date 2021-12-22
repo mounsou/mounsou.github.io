@@ -13,7 +13,7 @@ tags:
   - landmark
   -
 
-description: 'I would like to introduce N-Seoul Tower which I ragard it as a landmark in Seoul. (saya ingin memperkenalkan N-Seoul Tower yang saya anggap Landmark di Seoul / 我想介绍N-SeoulTower我认为在首尔的landmark。)  .'
+description: 'A  .'
 ---
 
 # 1. Landmark
