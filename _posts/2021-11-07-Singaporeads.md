@@ -1,21 +1,18 @@
 ---
 layout: post
-permalink: /Deoksu-gung/
-title: 'Deoksu-gung in Autumn'
-date: 2022-12-22 19:30:00 +09:00
-feature: '/img/posts/02/namsan.jpg'
+permalink: /Singapore-Malaysia/
+title: '싱가폴 간략한 소개'
+date: 2021-06-07 00:05:00 +09:00
+feature: '/img/posts/03/singapore.jpg'
 categories:
-  - Tour in Seoul
-  - Seoul Tour
-  - Jalan di Seoul
+  - Singapore
+  - landmark
 tags:
-  - 덕수궁
-  - 광화문 연가
-  - Deoksu-gung
+  - Singapore
+  - Changi
 
-  description: 'I would like tell you about Deoksu-gung in Seoul.'
-  ---
+description: '싱가폴에 대해서 간략하게 소개해 보려 합니다.'
 ---
-# 1. What is Deoksu-gung?
-Deaksu-gung is one of the palaces in Seoul that was inhabited by members of Korea's royal family during the Joseon monarchy until the annexation of Korea by Japan in 1910.
-Deoksugung Palace is special among Korean palaces. It has a modern and a western style garden and fountain. The Changing of the Royal Guard, in front of Daehanmun (Gate), is a very popular event for many visitors. The royal guard was responsible for opening and closing the palace gate during the Joseon Dynasty.
+# 1. 랜드마크
+![싱가폴](/img/posts/03/마리나베이.jpg)
+이번에는 위치를 조금 옮겨서 말레이시아와 싱가폴에 대해 소개해 보려 합니다.
