@@ -18,14 +18,6 @@ description: 'I would like to introduce N-Seoul Tower which I ragard it as a lan
 
 # 1. Landmark
 
-What do you think Landmark is? tall buildings? The state of Liberty? The great wall?
-What is the landmark in Seoul? Gwanghwa-moon? Lotte World Tower? I suppose it is N-Seoul tower (formerly known as Namsan Tower). You have probably ever seen N-tower if you are interested in Korea.
-You can take a look at the view of Seoul which is really beautiful. N-tower is located in the center of Seoul and quite close to downtown, so it is easy to visit. For this reason, N-tower became one of the popular tourist attractions in Korea for foreign tourists as well as Soul citizens
-
-<br>(Bahasa: Anda sudah pernah dengar N-tower? Menurut saya, N-tower itu landmark di Seoul seperti Monas di Jakarta. Karna itu salah satu tempat beristirat untuk penduduk di Seoul)
-
-<br>(汉语：您觉得landmark是什么？ 我认为N-Seoul Tower 是首尔的Landmark。您可能已经在电视看N-tower，如果你您喜欢韩国.首尔没有高高大大的建筑,不过还是有吸引力的城市)
-
 ![남산](/img/posts/02/seoul.jpg)
 # 2. History
 N-tower was built in 1971. The tower was not built for tourist attraction but for broadcasting tower. It is first general radio wave tower providing TV and radio broadcasting in Seoul. Currently, the tower broadcasts signals for Korean media outlets, such as KBS, MBC and SBS. The tower had been renovated in 2005 and turned into N-tower.
