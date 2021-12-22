@@ -13,10 +13,9 @@ tags:
   - 광화문 연가
   - Deoksu-gung
 
-  description: 'I would like to introduce N-Seoul Tower which I ragard it as a landmark in Seoul. (saya ingin memperkenalkan N-Seoul Tower yang saya anggap Landmark di Seoul / 我想介绍N-SeoulTower我认为在首尔的landmark。)
-
+  description: 'I would like tell you about Deoksu-gung in Seoul.'
+  ---
 ---
-
 # 1. What is Deoksu-gung?
 Deaksu-gung is one of the palaces in Seoul that was inhabited by members of Korea's royal family during the Joseon monarchy until the annexation of Korea by Japan in 1910.
 Deoksugung Palace is special among Korean palaces. It has a modern and a western style garden and fountain. The Changing of the Royal Guard, in front of Daehanmun (Gate), is a very popular event for many visitors. The royal guard was responsible for opening and closing the palace gate during the Joseon Dynasty.
