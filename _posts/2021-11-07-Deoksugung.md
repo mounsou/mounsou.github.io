@@ -14,7 +14,7 @@ tags:
 description: '.'
 ---
 # 1. Deaksu-gung
-![덕수궁 돌담길](/img/posts/04/덕수궁 돌담길.jfif)
+![덕수궁돌담길](/img/posts/04/덕수궁돌담길.jfif)
 Have you ever heard about Deoksu-Gung? Deoksu-Gung is not a famous place for foreign travelers but for 한국인.
 
 # 2. What is Deoksu-Gung ?
@@ -23,7 +23,7 @@ Deoksugung, also known as Gyeongun-gung, Deoksugung Palace, or Deoksu Palace, is
 Why is it so famous?
 
 # 3. History
-![덕수궁 역사](/img/posts/04/덕수궁 역사.jfif)
+![덕수궁역사](/img/posts/04/덕수궁역사.jfif)
 Deoksugung was originally the residence of Grand Prince Wolsan, the older brother of King Seongjong. This residence became a royal 'palace' during the Imjin war after all of the other palaces were burned in 1592 during the Imjin wars. King Seonjo was the first Joseon king to reside at the palace. King Gwanghaegun was crowned in this palace in 1608, and renamed it Gyeongun-gung (경운궁, 慶運宮) in 1611. After the official palace was moved to the rebuilt Changdeokgung in 1618, it was mostly used as an auxiliary palace was renamed Seogung (West Palace). During its history, it alternated between being a royal residential palace and a temporary residence
 
 # 4. Why is it so famous? (Deoksugung Stonewall path)
